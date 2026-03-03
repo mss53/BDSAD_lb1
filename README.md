@@ -60,11 +60,7 @@
 
 ### 3. Запуск Jupyter Notebook и выполнение анализа
 
-1. Запустить Jupyter Notebook от пользователя `hadoop` (команда зависит от настройки окружения, например):
-
-   ```bash
-   jupyter notebook
-   ```
+1. Запустить Jupyter Notebook от пользователя `hadoop`
 
 2. В веб‑интерфейсе Jupyter открыть файл:
 
