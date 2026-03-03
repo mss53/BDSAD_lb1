@@ -64,7 +64,7 @@ hdfs dfs -put /home/hadoop/data/Extended_Employee_Performance_and_Productivity_D
 hdfs dfs -ls /user/hadoop/lab_01/input/
 ```
 <img width="1847" height="766" alt="image" src="https://github.com/user-attachments/assets/5c96b48b-e501-4b93-b930-44de1bd8b46b" />
-- **Рис. 1.** Вывод команды `jps` с запущенными компонентами NameNode, DataNode, ResourceManager, NodeManager; Вывод команды `hdfs dfs -ls /user/hadoop/lab_01/input/` с загруженным CSV‑файлом.
+ Рис. 1. Вывод команды `jps` с запущенными компонентами NameNode, DataNode, ResourceManager, NodeManager; Вывод команды `hdfs dfs -ls /user/hadoop/lab_01/input/` с загруженным CSV‑файлом.
 
 ### 2.2. Считывание данных в Spark и предварительная обработка
 
